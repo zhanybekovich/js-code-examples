@@ -1,0 +1,12 @@
+h2::selection {
+  background: blue;
+}
+
+.box {
+  background-color: yellow;
+}
+
+li {
+  padding: 15px 0;
+  font-size: 25px;
+}

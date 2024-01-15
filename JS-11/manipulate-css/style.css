@@ -1,0 +1,22 @@
+.card {
+  border: 3px solid blue;
+}
+
+.box {
+  background-color: yellow;
+}
+
+.big {
+  font-size: 50px;
+}
+
+.hide {
+  display: none;
+}
+
+.big-box {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  padding: 50px;
+}
