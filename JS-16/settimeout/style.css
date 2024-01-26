@@ -1,0 +1,18 @@
+h1 {
+  position: absolute;
+  left: 0;
+}
+
+h1.animate {
+  animation: move 1s;
+}
+
+@keyframes move {
+  0% {
+    left: 0;
+  }
+
+  100% {
+    left: 500px;
+  }
+}
